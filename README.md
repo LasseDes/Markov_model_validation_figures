@@ -1,0 +1,54 @@
+# Markov_model_validation_figures
+Validation Figures for Lasse Desdorf's Master's Thesis
+
+The structure of the repository:
+- SORT1-NSG1
+	- 0% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 10% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 20% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 30% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 40% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 50% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+- SORT1-NSG2
+	- 0% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 10% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 20% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 30% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 40% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
+	- 50% cholesterol
+		-  Implied timescales versus lagtimes
+		-  PCCA+ metastable states
+		-  Chapman-Kolmogorov test
