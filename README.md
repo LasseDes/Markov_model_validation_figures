@@ -2,7 +2,7 @@
 Validation Figures for Lasse Desdorf's Master's Thesis
 
 The structure of the repository:
-- SORT1-NSG1
+-SORT1-NSG1
 	- 0% cholesterol
 		-  Implied timescales versus lagtimes
 		-  PCCA+ metastable states
